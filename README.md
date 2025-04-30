@@ -17,24 +17,7 @@ A fully functional **frontend food delivery app** inspired by Zomato/Swiggy, foc
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
-## 📸 Screenshots
-
-*(Add screenshots here after you deploy it)*
-
-## 🚀 Live Demo
-
-[👉 Click here to view live (host on GitHub Pages or Netlify)](https://your-live-link.com)
-
-## 📁 How to Run
-
-1. Clone this repository  
-   `git clone https://github.com/yourusername/archanas-kitchen.git`
-
-2. Open `index.html` in your browser  
-   or host it using GitHub Pages or Netlify.
-
----
-
-## 👩‍🍳 Created with love for food and frontend ❤  
+  
+ Created with love for food and frontend ❤  
