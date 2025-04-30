@@ -1,8 +1,8 @@
-# Archana's Kitchen 🍽️ – Telangana Food Delivery Web App
+# Archana's Kitchen  – Telangana Food Delivery Web App
 
 A fully functional **frontend food delivery app** inspired by Zomato/Swiggy, focused on Telangana regional cuisine.
 
-## 🔥 Features
+** Features
 
 - ✅ Display of 25+ Telangana dishes, sweets, soups, and drinks
 - ✅ Category sections: Veg, Non-Veg, Desserts, Drinks
@@ -13,7 +13,7 @@ A fully functional **frontend food delivery app** inspired by Zomato/Swiggy, foc
 - ✅ Modern UI with food images
 - ✅ "Thank you" footer with personalized message
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - HTML5
 - CSS3
