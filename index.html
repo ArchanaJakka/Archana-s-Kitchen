@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Archana's Kitchen</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Archana's Kitchen</h1>
+    <p>Authentic Telangana Delights</p>
+  </header>
+
+  <main>
+    <section id="menu" class="menu-section"></section>
+
+    <aside class="cart">
+      <h2>Your Cart</h2>
+      <ul id="cart-items"></ul>
+      <p id="total">Total: ₹0</p>
+      <p id="discount" class="green-text"></p>
+      <p id="bonus-dessert" class="green-text" style="display: none;">🎁 Free dessert added!</p>
+      <button onclick="placeOrder()">Place Order</button>
+    </aside>
+
+    <section id="tracker" class="tracking hidden">
+      <h2>Order Tracking</h2>
+      <p id="tracking-status">Waiting to confirm order...</p>
+      <p id="delivery-partner"></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>Thank you for choosing Archana's Kitchen 😊</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
+
