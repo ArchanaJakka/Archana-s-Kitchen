@@ -20,4 +20,4 @@ A fully functional **frontend food delivery app** inspired by Zomato/Swiggy, foc
 - JavaScript
 
   
- Created with love for food and frontend ❤  
+ Done this project with love for food and frontend ❤  
